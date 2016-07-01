@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The two marketers]]></title>
         <description><![CDATA[The two marketers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/om44/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 06:24:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 06:24:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/om44/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Demika (44003) by OM44]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a482d584-5d40-4783-96b2-0bac120bfd37.jpg">]]></description>
+            <link>https://soundcloud.com/om44sound/44003-demika</link>
+            <guid isPermaLink="false">cb198315-27b6-4112-a963-3d49fe3cc5cb</guid>
+            <pubDate>Fri, 01 Jul 2016 06:23:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vlad Dinu (44004) by OM44]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/874bab47-a2d6-4b0f-bc2d-d29e8564f531.jpg">]]></description>
