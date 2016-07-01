@@ -1,16 +1,16 @@
-typography_spectrum: 0.6088460965547711
+typography_spectrum: 0.32329592970199883
 color:
-  brandStrength: 0.5785198195371777
-  lightness: 0.6391466800123453
-  saturation: 0.9416543543338776
-  rhythmicContrast: 0.1323752028401941
+  brandStrength: 0.22822110657580197
+  lightness: 0.8623679135926068
+  saturation: 0.5167632361408323
+  rhythmicContrast: 0.3145758069586009
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.6409089928492904
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.0976955306250602
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01a5da28-5683-4d1b-9313-c8f8838de6e7.png
 name: OM44
