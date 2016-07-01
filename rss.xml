@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The two marketers]]></title>
+        <description><![CDATA[The two marketers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 06:24:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vlad Dinu (44004) by OM44]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/874bab47-a2d6-4b0f-bc2d-d29e8564f531.jpg">]]></description>
+            <link>https://soundcloud.com/om44sound/44004-vlad-dinu</link>
+            <guid isPermaLink="false">eef60aa5-5d80-4707-acd5-a1b005c0d763</guid>
+            <pubDate>Fri, 01 Jul 2016 06:23:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
